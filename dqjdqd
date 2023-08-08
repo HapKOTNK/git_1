@@ -1,0 +1,35 @@
+[33mcommit 28facdefa471eed25dc07a0aa757687ab4df4ad9[m[33m ([m[1;36mHEAD -> [m[1;32mfeature_2[m[33m)[m
+Author: HapKOTNK <tem242002@gmail.com>
+Date:   Tue Aug 8 15:34:23 2023 +0700
+
+    test: Test git
+
+[33mcommit d78c1216ea1b684089600ea85dffd6226e125b0d[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeature_3[m[33m)[m
+Author: HapKOTNK <tem242002@gmail.com>
+Date:   Mon Aug 7 16:57:01 2023 +0700
+
+    feat: add page about
+
+[33mcommit 86fefeaf979063d7300210a1618a352ca99c0749[m
+Author: HapKOTNK <tem242002@gmail.com>
+Date:   Mon Aug 7 16:53:35 2023 +0700
+
+    Что-то умное
+
+[33mcommit 0f01caff2ad76cdaef8b1c60968775d26f38851b[m
+Author: HapKOTNK <tem242002@gmail.com>
+Date:   Mon Aug 7 16:40:50 2023 +0700
+
+    World
+
+[33mcommit 7aad2a7743f8fc332efad3f56b9394e46d1093a3[m
+Author: HapKOTNK <tem242002@gmail.com>
+Date:   Mon Aug 7 15:46:17 2023 +0700
+
+    Hello
+
+[33mcommit dbca0d87261b8276e76af46ac0f58ac3cf7ceaed[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: HapKOTNK <tem242002@gmail.com>
+Date:   Mon Aug 7 15:31:31 2023 +0700
+
+    init
